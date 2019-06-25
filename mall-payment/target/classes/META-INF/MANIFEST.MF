@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Implementation-Title: mall-payment
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: SKCC
+Implementation-Vendor-Id: com.sk.sample
+Build-Jdk: 1.8.0_202
+Implementation-URL: https://projects.spring.io/spring-boot/mall/mall-p
+ ayment/
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: Pivotal Software, Inc.
+

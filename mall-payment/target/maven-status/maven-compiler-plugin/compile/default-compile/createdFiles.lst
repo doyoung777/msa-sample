@@ -1,0 +1,5 @@
+com\sk\sample\mall\shared\domain\QAddress.class
+com\sk\sample\mall\payment\domain\model\QPurchase.class
+com\sk\sample\mall\payment\domain\model\QCredit.class
+com\sk\sample\mall\payment\domain\model\QCreditCard.class
+com\sk\sample\mall\shared\base\QAbstractEntity.class
